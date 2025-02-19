@@ -7,7 +7,7 @@ const App = () => {
     <>
       <AddHotelForm />
       <Hotels />
-      <HotelByTitle hotelName="Blue Lagoon Resort" />
+      <HotelByTitle hotelName="Serenity Lake Resort" />
     </>
   );
 };
